@@ -1,0 +1,5 @@
+projeto 1 projeto base.
+projeto 2 Projeto sem usar Repositories
+projeto 3 e 4 Projetos usando Repository
+projeto 4 Implementando a clase CozinhaRepository. uso de repositories
+

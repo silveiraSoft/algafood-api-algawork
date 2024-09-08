@@ -1,0 +1,1 @@
+insert into cozinha (nome) values ('Indiana'),('Brasilenha'),('Cubana');
